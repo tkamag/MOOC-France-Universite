@@ -74,10 +74,10 @@ Autres sites
 - [Quick-R][11] : site web listant, par thème, les principales commandes R, exemples à l'appui
   [11]: http://www.statmethods.net/
   
-  - https://archive.org/details/TheRBook : Livre sur R très dense en anglais
+- https://archive.org/details/TheRBook : Livre sur R très dense en anglais
   
-  - **IUTenLigne** (antony.charbonnieras@u-psud.fr) : [Interfaces utilisateur et rapports statistiques avec R et Sas](http://www.iutenligne.net/ressources/interfaces-utilisateur-et-rapports-statistiques-avec-r-et-sas.html) (P. Raffinat)
+- **IUTenLigne** (antony.charbonnieras@u-psud.fr) : [Interfaces utilisateur et rapports statistiques avec R et Sas](http://www.iutenligne.net/ressources/interfaces-utilisateur-et-rapports-statistiques-avec-r-et-sas.html) (P. Raffinat)
   
-  - Une sélection de "free books" en anglais sur [l'analyse des données et le data mining][12]  
+- Une sélection de "free books" en anglais sur [l'analyse des données et le data mining][12]  
   (il y en a pour tous les goûts, du très austère au style "pour les nuls")
   [12]: http://codecondo.com/9-free-books-for-learning-data-mining-data-analysis/
