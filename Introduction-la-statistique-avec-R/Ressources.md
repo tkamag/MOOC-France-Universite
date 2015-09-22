@@ -4,6 +4,7 @@ Documents
 
 - [R pour les débutants][1], Paradis E
   [1]: http://cran.r-project.org/doc/contrib/Paradis-rdebuts_fr.pdf
+
  
 - [An introduction to R][2], Venables W N, Smith D M, R Core Team
   [2]: http://cran.r-project.org/doc/manuals/R-intro.pdf
